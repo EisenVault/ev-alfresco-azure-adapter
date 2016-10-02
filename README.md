@@ -1,6 +1,6 @@
 # Alfresco adapter to work with Azure block storage
-# Initial version developed by the EisenVault development team. Reach us at contact@eisenvault.com
-# Initial commit on 1st October 2016
+Initial version developed by the EisenVault development team. Reach us at contact@eisenvault.com
+Initial commit on 2nd October 2016
 
 #Credits
 Base Code taken from Ryan Berg's repository: https://github.com/rmberg/alfresco-s3-adapter
@@ -10,7 +10,8 @@ Modified the above code to work with Azure.
 #Disclaimer
 We have done basic testing and it seems to work - would appreciate your help in testing it further.
 Pull Requests / Issues / Contributions are welcome!
- 
+Tested with Alfresco Community 5.0.d and Alfresco Community 5.1.g
+
 #Build Instructions
 
  * After cloning the project, run `mvn clean install` to download dependencies and build the project
