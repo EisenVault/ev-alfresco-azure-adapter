@@ -23,13 +23,13 @@ Installation / Configuration
 ```
 # Your Azure credentials
 
-azure.accessKey=hUemXw0sD8e72/E5JrQZEFelkOG19icdmEU9hTfov8XmAPjGl0oX5l3/qzghHi+5Zj9tp4zC96ZX+B7Yz2wOVQ==
+azure.accessKey=<<your azure storage key>>
 
 # The Azure block content store Container Name
-azure.containerName=alfresco-docs-2
+azure.containerName=<<your container name>>
 
 # The Azure block content store Account Name
-azure.accountName=evvipuldev
+azure.accountName=<<your account name>>
 
 # The relative path within the bucket to use as the content store
 dir.contentstore=contentstore
