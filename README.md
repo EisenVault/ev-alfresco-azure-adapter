@@ -2,6 +2,8 @@
 Initial version developed by the EisenVault development team. Reach us at contact@eisenvault.com
 Initial commit on 2nd October 2016
 
+EisenVault specialises in providing innovative and cost-effective document management solutions, with a focus on digital document management system. Operating in the Delhi NCR region in India, our team will help you define and setup document management workflows to suit your business needs. You can read more about us at www.eisenvault.com.
+
 #Credits
 Base Code taken from Ryan Berg's repository: https://github.com/rmberg/alfresco-s3-adapter
 Modified the above code to work with Azure.
